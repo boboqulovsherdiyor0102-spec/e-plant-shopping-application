@@ -1,7 +1,2 @@
-# Paradise Nursery - E-Plant Shopping Application
-This is a React-based e-commerce application for a houseplant nursery.
-
-## Features:
-- Landing page with 'Get Started' button.
-- Product listing with categories.
-- Shopping cart managed with Redux Toolkit.
+# Paradise Nursery
+This is a comprehensive React-based e-commerce application designed for a houseplant nursery, allowing users to browse plants and manage their shopping cart.
